@@ -1,4 +1,4 @@
 # Loja-Virtual
 
 # nodemon src/server.js
-# localhost://3000
+# http://localhost:3000S
